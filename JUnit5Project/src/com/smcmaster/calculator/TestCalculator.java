@@ -7,7 +7,7 @@ class TestCalculator {
 
   @Test
   void test() {
-    Calculator cal = new Calculator();
+    Calculator cal = new DefaultCalculator();
   }
 
 }
