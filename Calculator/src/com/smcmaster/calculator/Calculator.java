@@ -4,5 +4,9 @@ public interface Calculator {
   double add(double x, double y);
   double subtract(double x, double y);
   double multiply(double x, double y);
-  double divide(int x, int y);
+  double divide(double x, double y);
+  
+  String add(String x, String y);
+  
+  double calculate(BinaryCalculation calculation);
 }

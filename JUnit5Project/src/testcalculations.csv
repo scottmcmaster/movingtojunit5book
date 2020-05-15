@@ -1,0 +1,5 @@
+left,operation,right,answer
+5,ADD,6,11
+19,SUB,6,13
+5,MUL,6,30
+10,DIV,5,2
